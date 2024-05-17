@@ -1,0 +1,48 @@
+Replication materials for "Efficient line search for optimizing Area
+Under the ROC Curve in gradient descent."
+
+** Figure 1
+
+   [[file:figure-more-than-one-new-binary-aum-rate.png]]
+
+   [[file:figure-more-than-one-new-binary-heat.png]]
+
+   [[file:figure-more-than-one-new.R][figure code]].
+   
+** Figure 2
+
+   [[file:figure-aum-convexity-new-profiles.png]]
+   
+   [[file:figure-aum-convexity-new.png]]
+   
+   [[file:figure-aum-convexity-new.R][figure code]].
+   
+** Figure 3
+
+   [[file:figure-line-search-example-binary.png]]
+
+   [[file:figure-line-search-example-binary-roc.png]]
+
+   [[file:figure-line-search-example-binary-error.png]]
+
+   [[file:figure-line-search-example-binary.R][figure code]].
+   
+** Figure 4
+
+   [[file:figure-line-search-example.png]]
+   
+[[file:figure-line-search-example.R][figure code]].
+
+** Figure 5
+
+   [[file:data_Classif_figure_units.png]]
+
+[[file:data_Classif.R][computation code]], [[file:data_Classif_figure.R][figure code]].
+
+** Figure 6
+
+[[file:figure-line-search-complexity-compare-H3K4me3_TDH_immune-equal_labels-rate-IntervalRegressionCV-initial.png]]
+
+[[file:figure-line-search-complexity-compare-H3K4me3_TDH_immune-equal_labels-rate-IntervalRegressionCV-seconds.png]]
+
+[[file:figure-line-search-complexity-compare.R][figure code]].
